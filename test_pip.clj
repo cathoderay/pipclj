@@ -1,5 +1,5 @@
-(ns holmes.time-series.test-pip
-  (:use holmes.time-series.pip clojure.test)
+(ns test-pip
+  (:use pip clojure.test)
   (:require
     [clojure.contrib.math :as math]
     [clojure.contrib.generic.math-functions :as math-functions]))

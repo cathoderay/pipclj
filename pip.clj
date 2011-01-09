@@ -4,7 +4,7 @@
 ; Last Updated: Mon 29 Nov 2010 01:01:45 AM BRST
 
 
-(ns holmes.time-series.pip
+(ns pip
   (:require
     [clojure.contrib.math :as math]))
 
